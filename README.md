@@ -1,4 +1,4 @@
-## Olá eu sou o Mateus Olveira
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Oliveira;I'm+29+years+old;I+from+Brasil,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 - 🔭 Atualmente estou trabalhando em Técnico de informática
@@ -32,6 +32,11 @@
 </div>
 
  Obrigado pela visita ! Volte sempre 🚀
+ 
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{teussharke}/count.svg" /></p> 
+<br></div>
 <!---
 teussharke/teussharke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
