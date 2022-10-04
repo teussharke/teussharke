@@ -1,6 +1,6 @@
 - 🔭 Atualmente estou trabalhando em Técnico de informática
 - 🌱 Atualmente estou aprendendo JavaScript, React
-- 📫 Como entrar em contato comigo: 
+- 📫 Como entrar em contato comigo: teussharke@gmail.com
 - ⚡ Curiosidade: Apreciador do mundo gamer e do mundo da programação
 
  Obrigado pela visita ! Volte sempre 🚀
