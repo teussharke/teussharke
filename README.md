@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Oliveira;I'm+29+years+old;I+from+Brasil,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-- 🔭 Atualmente estou trabalhando em Técnico de informática
+- 🔭 Atualmente estou trabalhando de Técnico de informática
 - ⚡ Curiosidade: Apreciador do mundo gamer e do mundo da programação
-
+- 📈 Aprendendo a cada dia sobre o Desenvolvimento Front-End
 
  
  
